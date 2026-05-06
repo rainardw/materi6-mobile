@@ -52,4 +52,3 @@ Tugas Praktikum Mobile Programming - [Nama Universitas/Kampus]
 
 ---
 
-**Dibuat dengan ❤️ menggunakan Android Studio**
